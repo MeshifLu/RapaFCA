@@ -1,4 +1,5 @@
 # Rapamycin Fly Cell Atlas (Rapa-FCA)
+Rapamycin extends lifespan across species, yet its cell-type-specific benefits and vulnerabilities remain unclear at whole-organism scale. Here, we present the Rapamycin Fly Cell Atlas (Rapa-FCA), a whole-organism single-nucleus transcriptomic atlas of Drosophila aging spanning both sexes, multiple ages, and 181 cell types. Rapamycin elicited a highly heterogeneous response, with prominent effects in reproductive, digestive, and neuromuscular systems and modest responses in most neuronal populations. Across diverse tissues, we identified a rapamycin-sensitive Convergent Aging Trajectory (CAT), marked by Fkbp12 enrichment and mTORC1-linked metabolic programs, including glycolysis and lipid synthesis. CAT-high nuclei accumulated with age and were preferentially reduced by rapamycin, especially in females, consistent with stronger female lifespan extension. By integrating CAT abundance, aging-clock predictions, and nucleus-ratio changes, we mapped sex- and cell-type-specific geroprotection effects of rapamycin. Together, Rapa-FCA provides an organism-wide framework for resolving how rapamycin reshapes cellular aging across sex, tissue, and cellular state.
 
 <br/><br/>
 
@@ -14,7 +15,7 @@
 
 
 # Data Portal 
-
+https://hongjielilab.org/rapa-fca
 <br/><br/>
 # Data availability  
 ## h5ad files with cell barcodes & cell-type annotations  
