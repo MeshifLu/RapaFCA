@@ -18,7 +18,7 @@
 <br/><br/>
 # Data availability  
 ## h5ad files with cell barcodes & cell-type annotations  
-**Cell-type annotation column:** `adfca_annotation`  
+**Cell-type annotation column:** `rapamycin_annotation`  
 
 **[head]**  
 **[body]**    
